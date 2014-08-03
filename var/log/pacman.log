@@ -1,0 +1,175 @@
+[2014-08-03 15:21] [PACMAN] Running 'pacman -r /mnt/REPL -Sy --cachedir=/mnt/REPL/var/cache/pacman/pkg base base-devel'
+[2014-08-03 15:21] [PACMAN] synchronizing package lists
+[2014-08-03 15:31] [PACMAN] installed linux-api-headers (3.14.1-1)
+[2014-08-03 15:31] [PACMAN] installed tzdata (2014e-1)
+[2014-08-03 15:31] [PACMAN] installed iana-etc (2.30-4)
+[2014-08-03 15:31] [PACMAN] installed filesystem (2014.07-1)
+[2014-08-03 15:31] [PACMAN] installed glibc (2.19-5)
+[2014-08-03 15:31] [PACMAN] installed ncurses (5.9-6)
+[2014-08-03 15:31] [PACMAN] installed readline (6.3.006-1)
+[2014-08-03 15:31] [PACMAN] installed bash (4.3.018-3)
+[2014-08-03 15:31] [PACMAN] installed bzip2 (1.0.6-5)
+[2014-08-03 15:31] [PACMAN] installed zlib (1.2.8-3)
+[2014-08-03 15:31] [PACMAN] installed cracklib (2.9.0-2)
+[2014-08-03 15:31] [PACMAN] installed libutil-linux (2.24.2-1)
+[2014-08-03 15:31] [PACMAN] installed e2fsprogs (1.42.10-1)
+[2014-08-03 15:31] [PACMAN] installed gdbm (1.11-1)
+[2014-08-03 15:31] [PACMAN] installed gcc-libs (4.9.1-1)
+[2014-08-03 15:31] [PACMAN] installed db (5.3.28-1)
+[2014-08-03 15:31] [PACMAN] installed perl (5.20.0-5)
+[2014-08-03 15:31] [PACMAN] installed openssl (1.0.1.h-1)
+[2014-08-03 15:31] [PACMAN] installed libsasl (2.1.26-7)
+[2014-08-03 15:31] [PACMAN] installed libldap (2.4.39-1)
+[2014-08-03 15:31] [PACMAN] installed keyutils (1.5.9-1)
+[2014-08-03 15:31] [PACMAN] installed krb5 (1.12.1-1)
+[2014-08-03 15:31] [PACMAN] installed libtirpc (0.2.4-1)
+[2014-08-03 15:31] [PACMAN] installed pambase (20130928-1)
+[2014-08-03 15:31] [PACMAN] installed pam (1.1.8-5)
+[2014-08-03 15:31] [PACMAN] installed attr (2.4.47-1)
+[2014-08-03 15:31] [PACMAN] installed acl (2.2.52-2)
+[2014-08-03 15:31] [PACMAN] installed gmp (6.0.0-1)
+[2014-08-03 15:31] [PACMAN] installed libcap (2.24-1)
+[2014-08-03 15:31] [PACMAN] installed coreutils (8.23-1)
+[2014-08-03 15:31] [PACMAN] installed libdbus (1.8.6-1)
+[2014-08-03 15:31] [PACMAN] installed expat (2.1.0-3)
+[2014-08-03 15:31] [PACMAN] installed dbus (1.8.6-1)
+[2014-08-03 15:31] [PACMAN] installed pcre (8.35-1)
+[2014-08-03 15:31] [PACMAN] installed libffi (3.1-2)
+[2014-08-03 15:31] [PACMAN] installed glib2 (2.40.0-1)
+[2014-08-03 15:31] [PACMAN] installed kbd (2.0.1-1)
+[2014-08-03 15:31] [PACMAN] installed kmod (18-1)
+[2014-08-03 15:31] [PACMAN] installed hwids (20140602-1)
+[2014-08-03 15:31] [PACMAN] installed libgpg-error (1.13-1)
+[2014-08-03 15:31] [PACMAN] installed libgcrypt (1.6.1-1)
+[2014-08-03 15:31] [PACMAN] installed xz (5.0.5-2)
+[2014-08-03 15:31] [PACMAN] installed libsystemd (215-4)
+[2014-08-03 15:31] [PACMAN] installed libseccomp (2.1.1-1)
+[2014-08-03 15:31] [PACMAN] installed shadow (4.2.1-1)
+[2014-08-03 15:31] [PACMAN] installed util-linux (2.24.2-1)
+[2014-08-03 15:31] [ALPM-SCRIPTLET] Initializing machine ID from random generator.
+[2014-08-03 15:31] [ALPM-SCRIPTLET] Created symlink from /etc/systemd/system/getty.target.wants/getty@tty1.service to /usr/lib/systemd/system/getty@.service.
+[2014-08-03 15:31] [ALPM-SCRIPTLET] :: Append 'init=/usr/lib/systemd/systemd' to your kernel command line in your
+[2014-08-03 15:31] [ALPM-SCRIPTLET]    bootloader to replace sysvinit with systemd, or install systemd-sysvcompat
+[2014-08-03 15:31] [PACMAN] installed systemd (215-4)
+[2014-08-03 15:31] [PACMAN] installed device-mapper (2.02.106-2)
+[2014-08-03 15:31] [PACMAN] installed popt (1.16-7)
+[2014-08-03 15:31] [PACMAN] installed cryptsetup (1.6.5-2)
+[2014-08-03 15:31] [PACMAN] installed dhcpcd (6.4.2-1)
+[2014-08-03 15:31] [PACMAN] installed diffutils (3.3-2)
+[2014-08-03 15:31] [PACMAN] installed file (5.19-1)
+[2014-08-03 15:31] [PACMAN] installed findutils (4.4.2-6)
+[2014-08-03 15:31] [PACMAN] installed mpfr (3.1.2.p10-1)
+[2014-08-03 15:31] [PACMAN] installed gawk (4.1.1-1)
+[2014-08-03 15:31] [PACMAN] installed libunistring (0.9.3-6)
+[2014-08-03 15:31] [PACMAN] installed gettext (0.19.2-1)
+[2014-08-03 15:31] [PACMAN] installed grep (2.20-1)
+[2014-08-03 15:31] [PACMAN] installed less (458-1)
+[2014-08-03 15:31] [PACMAN] installed gzip (1.6-1)
+[2014-08-03 15:31] [PACMAN] installed inetutils (1.9.2-1)
+[2014-08-03 15:31] [PACMAN] installed iptables (1.4.21-1)
+[2014-08-03 15:31] [PACMAN] installed iproute2 (3.15.0-1)
+[2014-08-03 15:31] [PACMAN] installed sysfsutils (2.1.0-9)
+[2014-08-03 15:31] [PACMAN] installed iputils (20121221-3)
+[2014-08-03 15:31] [PACMAN] installed jfsutils (1.1.15-4)
+[2014-08-03 15:31] [PACMAN] installed licenses (20140629-1)
+[2014-08-03 15:31] [PACMAN] installed linux-firmware (20140603.a4f3bc0-1)
+[2014-08-03 15:31] [PACMAN] installed mkinitcpio-busybox (1.21.1-2)
+[2014-08-03 15:31] [PACMAN] installed lzo (2.08-3)
+[2014-08-03 15:31] [PACMAN] installed libarchive (3.1.2-8)
+[2014-08-03 15:31] [PACMAN] installed mkinitcpio (18-1)
+[2014-08-03 15:31] [ALPM-SCRIPTLET] >>> Updating module dependencies. Please wait ...
+[2014-08-03 15:31] [ALPM-SCRIPTLET] >>> Generating initial ramdisk, using mkinitcpio.  Please wait...
+[2014-08-03 15:31] [ALPM-SCRIPTLET] ==> Building image from preset: /etc/mkinitcpio.d/linux.preset: 'default'
+[2014-08-03 15:31] [ALPM-SCRIPTLET]   -> -k /boot/vmlinuz-linux -c /etc/mkinitcpio.conf -g /boot/initramfs-linux.img
+[2014-08-03 15:31] [ALPM-SCRIPTLET] ==> Starting build: 3.15.8-1-ARCH
+[2014-08-03 15:31] [ALPM-SCRIPTLET]   -> Running build hook: [base]
+[2014-08-03 15:31] [ALPM-SCRIPTLET]   -> Running build hook: [udev]
+[2014-08-03 15:31] [ALPM-SCRIPTLET]   -> Running build hook: [autodetect]
+[2014-08-03 15:31] [ALPM-SCRIPTLET]   -> Running build hook: [modconf]
+[2014-08-03 15:31] [ALPM-SCRIPTLET]   -> Running build hook: [block]
+[2014-08-03 15:31] [ALPM-SCRIPTLET]   -> Running build hook: [filesystems]
+[2014-08-03 15:31] [ALPM-SCRIPTLET]   -> Running build hook: [keyboard]
+[2014-08-03 15:31] [ALPM-SCRIPTLET]   -> Running build hook: [fsck]
+[2014-08-03 15:31] [ALPM-SCRIPTLET] ==> ERROR: file not found: `fsck.btrfs'
+[2014-08-03 15:31] [ALPM-SCRIPTLET] ==> WARNING: No fsck helpers found. fsck will not be run on boot.
+[2014-08-03 15:31] [ALPM-SCRIPTLET] ==> Generating module dependencies
+[2014-08-03 15:31] [ALPM-SCRIPTLET] ==> Creating gzip-compressed initcpio image: /boot/initramfs-linux.img
+[2014-08-03 15:31] [ALPM-SCRIPTLET] ==> WARNING: errors were encountered during the build. The image may not be complete.
+[2014-08-03 15:31] [ALPM-SCRIPTLET] ==> Building image from preset: /etc/mkinitcpio.d/linux.preset: 'fallback'
+[2014-08-03 15:31] [ALPM-SCRIPTLET]   -> -k /boot/vmlinuz-linux -c /etc/mkinitcpio.conf -g /boot/initramfs-linux-fallback.img -S autodetect
+[2014-08-03 15:31] [ALPM-SCRIPTLET] ==> Starting build: 3.15.8-1-ARCH
+[2014-08-03 15:31] [ALPM-SCRIPTLET]   -> Running build hook: [base]
+[2014-08-03 15:31] [ALPM-SCRIPTLET]   -> Running build hook: [udev]
+[2014-08-03 15:31] [ALPM-SCRIPTLET]   -> Running build hook: [modconf]
+[2014-08-03 15:31] [ALPM-SCRIPTLET]   -> Running build hook: [block]
+[2014-08-03 15:31] [ALPM-SCRIPTLET] ==> WARNING: Possibly missing firmware for module: aic94xx
+[2014-08-03 15:31] [ALPM-SCRIPTLET] ==> WARNING: Possibly missing firmware for module: smsmdtv
+[2014-08-03 15:31] [ALPM-SCRIPTLET]   -> Running build hook: [filesystems]
+[2014-08-03 15:31] [ALPM-SCRIPTLET]   -> Running build hook: [keyboard]
+[2014-08-03 15:31] [ALPM-SCRIPTLET]   -> Running build hook: [fsck]
+[2014-08-03 15:31] [ALPM-SCRIPTLET] ==> Generating module dependencies
+[2014-08-03 15:31] [ALPM-SCRIPTLET] ==> Creating gzip-compressed initcpio image: /boot/initramfs-linux-fallback.img
+[2014-08-03 15:31] [ALPM-SCRIPTLET] ==> Image generation successful
+[2014-08-03 15:31] [PACMAN] installed linux (3.15.8-1)
+[2014-08-03 15:31] [PACMAN] installed logrotate (3.8.7-3)
+[2014-08-03 15:31] [PACMAN] installed lvm2 (2.02.106-2)
+[2014-08-03 15:31] [PACMAN] installed groff (1.22.2-6)
+[2014-08-03 15:31] [PACMAN] installed libpipeline (1.3.0-1)
+[2014-08-03 15:31] [ALPM-SCRIPTLET] it's recommended to create an initial
+[2014-08-03 15:31] [ALPM-SCRIPTLET] database running as root:
+[2014-08-03 15:31] [ALPM-SCRIPTLET] "/usr/bin/mandb --quiet"
+[2014-08-03 15:31] [PACMAN] installed man-db (2.6.7.1-1)
+[2014-08-03 15:31] [PACMAN] installed man-pages (3.70-1)
+[2014-08-03 15:31] [PACMAN] installed mdadm (3.3.1-2)
+[2014-08-03 15:31] [PACMAN] installed nano (2.2.6-3)
+[2014-08-03 15:31] [PACMAN] installed openresolv (3.5.6-1)
+[2014-08-03 15:31] [PACMAN] installed netctl (1.8-1)
+[2014-08-03 15:31] [PACMAN] installed run-parts (4.4-1)
+[2014-08-03 15:31] [PACMAN] installed sed (4.2.2-3)
+[2014-08-03 15:31] [PACMAN] installed ca-certificates (20140325-1)
+[2014-08-03 15:31] [PACMAN] installed libssh2 (1.4.3-2)
+[2014-08-03 15:31] [PACMAN] installed curl (7.37.1-1)
+[2014-08-03 15:31] [PACMAN] installed pth (2.0.7-5)
+[2014-08-03 15:31] [PACMAN] installed libksba (1.3.0-1)
+[2014-08-03 15:31] [PACMAN] installed libassuan (2.1.1-1)
+[2014-08-03 15:31] [PACMAN] installed pinentry (0.8.3-1)
+[2014-08-03 15:31] [PACMAN] installed dirmngr (1.1.1-2)
+[2014-08-03 15:31] [PACMAN] installed gnupg (2.0.25-1)
+[2014-08-03 15:31] [PACMAN] installed gpgme (1.5.0-1)
+[2014-08-03 15:31] [PACMAN] installed pacman-mirrorlist (20140706-1)
+[2014-08-03 15:31] [PACMAN] installed archlinux-keyring (20140220-1)
+[2014-08-03 15:31] [PACMAN] installed pacman (4.1.2-6)
+[2014-08-03 15:31] [PACMAN] installed pciutils (3.2.1-1)
+[2014-08-03 15:31] [PACMAN] installed pcmciautils (018-7)
+[2014-08-03 15:31] [PACMAN] installed procps-ng (3.3.9-3)
+[2014-08-03 15:31] [PACMAN] installed psmisc (22.21-2)
+[2014-08-03 15:31] [PACMAN] installed reiserfsprogs (3.6.24-1)
+[2014-08-03 15:31] [PACMAN] installed s-nail (14.7.5-1)
+[2014-08-03 15:31] [PACMAN] installed systemd-sysvcompat (215-4)
+[2014-08-03 15:31] [PACMAN] installed tar (1.28-1)
+[2014-08-03 15:31] [PACMAN] installed texinfo (5.2-2)
+[2014-08-03 15:31] [PACMAN] installed libusb (1.0.19-1)
+[2014-08-03 15:31] [PACMAN] installed usbutils (007-1)
+[2014-08-03 15:31] [PACMAN] installed vi (1:050325-4)
+[2014-08-03 15:31] [PACMAN] installed which (2.20-7)
+[2014-08-03 15:31] [PACMAN] installed xfsprogs (3.2.0-1)
+[2014-08-03 15:31] [PACMAN] installed m4 (1.4.17-1)
+[2014-08-03 15:31] [PACMAN] installed autoconf (2.69-2)
+[2014-08-03 15:31] [PACMAN] installed automake (1.14.1-1)
+[2014-08-03 15:31] [PACMAN] installed binutils (2.24-6)
+[2014-08-03 15:32] [PACMAN] installed bison (3.0.2-1)
+[2014-08-03 15:32] [PACMAN] installed fakeroot (1.20-1)
+[2014-08-03 15:32] [PACMAN] installed flex (2.5.39-1)
+[2014-08-03 15:32] [PACMAN] installed libmpc (1.0.2-2)
+[2014-08-03 15:32] [PACMAN] installed isl (0.13-1)
+[2014-08-03 15:32] [PACMAN] installed cloog (0.18.1-3)
+[2014-08-03 15:32] [PACMAN] installed gcc (4.9.1-1)
+[2014-08-03 15:32] [PACMAN] installed libltdl (2.4.2-14)
+[2014-08-03 15:32] [PACMAN] installed libtool (2.4.2-14)
+[2014-08-03 15:32] [PACMAN] installed libatomic_ops (7.4.2-1)
+[2014-08-03 15:32] [PACMAN] installed gc (7.4.2-1)
+[2014-08-03 15:32] [PACMAN] installed guile (2.0.11-1)
+[2014-08-03 15:32] [PACMAN] installed make (4.0-2)
+[2014-08-03 15:32] [PACMAN] installed patch (2.7.1-3)
+[2014-08-03 15:32] [PACMAN] installed pkg-config (0.28-2)
+[2014-08-03 15:32] [PACMAN] installed sudo (1.8.10.p3-1)

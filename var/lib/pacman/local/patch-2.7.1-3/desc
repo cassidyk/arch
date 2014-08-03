@@ -1,0 +1,43 @@
+%NAME%
+patch
+
+%VERSION%
+2.7.1-3
+
+%DESC%
+A utility to apply patch files to original sources
+
+%URL%
+http://www.gnu.org/software/patch/patch.html
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1404242003
+
+%INSTALLDATE%
+1407101526
+
+%PACKAGER%
+Sébastien Luttringer <seblu@seblu.net>
+
+%SIZE%
+154624
+
+%GROUPS%
+base-devel
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+glibc
+attr
+
+%OPTDEPENDS%
+ed: for patch -e functionality
+

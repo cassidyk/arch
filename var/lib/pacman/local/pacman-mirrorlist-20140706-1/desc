@@ -1,0 +1,36 @@
+%NAME%
+pacman-mirrorlist
+
+%VERSION%
+20140706-1
+
+%DESC%
+Arch Linux mirror list for use by pacman
+
+%URL%
+https://www.archlinux.org/mirrorlist/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1404674117
+
+%INSTALLDATE%
+1407101516
+
+%PACKAGER%
+Florian Pritz <bluewind@xinu.at>
+
+%SIZE%
+25600
+
+%REASON%
+1
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
